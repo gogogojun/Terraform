@@ -1,0 +1,2 @@
+export TF_VAR_dbpassword=password
+export TF_VAR_dbuser=admin
